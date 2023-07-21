@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm an enthusiatic student currently learning to use various tools.
-Pronouns: she/her
 
 <!--
 **nikitha2552/nikitha2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
